@@ -1,0 +1,17 @@
+.container{
+    width: 60%;
+    margin: 0 20%;
+    text-align: center;
+}
+#cookies{
+    width: 80%;
+    padding: 0;
+    margin: 0 auto;
+}
+#cookies img{
+    width: 15%;
+    border: 1px solid black;
+}
+p{
+    font-size: 12px;
+}
